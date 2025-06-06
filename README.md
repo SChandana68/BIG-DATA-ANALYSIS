@@ -69,10 +69,10 @@ Using Seaborn, we generate a heatmap that displays the mean, standard deviation,
 The heatmap is saved as a high-resolution `.png` image, making it reusable for reports and presentations.
 
 **Real-World Applications**
-*Marketing and Sales
-*Customer Segmentation
-*Business Intelligence
-*Machine Learning Preparation:
+This data analysis will be used in Marketing and Sales,
+Customer Segmentation,
+Business Intelligence,
+Machine Learning Preparation.
 
 **Outputs Generated**
 
@@ -89,6 +89,8 @@ The heatmap is saved as a high-resolution `.png` image, making it reusable for r
 **Author**
 
 **Chandana Siddammagari**
+
 *Data Science & Big Data Enthusiast*
+
 *CodTech Internship – Big Data Analysis Task*
 
