@@ -85,7 +85,9 @@ Machine Learning Preparation.
 * **File Output**:
 
   * "heatmap_summary.png": A heatmap image summarizing key metrics
-
+ 
+    ![Image](https://github.com/user-attachments/assets/f72e0202-44e0-431b-ae0c-33fdf8b151c5)
+    
 **Author**
 
 **Chandana Siddammagari**
