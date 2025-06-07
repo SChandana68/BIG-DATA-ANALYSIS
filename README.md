@@ -40,7 +40,8 @@ The project simulates a real-world scenario, particularly from the perspective o
 * **File**: "marketing_campaign.csv"
 * **Format**: Tab-separated values (TSV)
 * **Source**: Open datasets like the UCI Machine Learning Repository
-* **Fields**: Income, product spending, campaign responses, family information, customer behavior metrics
+* 
+* **Features**: Income, product spending, campaign responses, family information, customer behavior metrics
 
 **Project Objectives and Methodology**
 
@@ -88,11 +89,7 @@ Machine Learning Preparation.
  
     ![Image](https://github.com/user-attachments/assets/f72e0202-44e0-431b-ae0c-33fdf8b151c5)
     
-**Author**
 
-**Chandana Siddammagari**
 
-*Data Science & Big Data Enthusiast*
 
-*CodTech Internship – Big Data Analysis Task*
 
