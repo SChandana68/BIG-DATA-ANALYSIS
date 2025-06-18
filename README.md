@@ -40,7 +40,6 @@ The project simulates a real-world scenario, particularly from the perspective o
 * **File**: "marketing_campaign.csv"
 * **Format**: Tab-separated values (TSV)
 * **Source**: Open datasets like the UCI Machine Learning Repository
-* 
 * **Features**: Income, product spending, campaign responses, family information, customer behavior metrics
 
 **Project Objectives and Methodology**
